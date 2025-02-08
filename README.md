@@ -1,7 +1,7 @@
 # The Complete "Game Development with Blender" Book
 by Dalai Felinto and Mike Pan. Now Free!
 
-This is a republication of the book originally published by Cengage. We put the book up here for free hoping to allow more people to learn the Blender Game Engine. We also hope to continue to improve the book with the help of the community and keep it always up-to-date.
+This is a republication of the book originally [published by Cengage](https://www.amazon.ca/Game-Development-Blender-Dalai-Felinto/dp/1435456629). As the original authors, we decided to put the book up here for free hoping to allow more people to learn the Blender Game Engine. We also hope to continue to improve the book with the help of the community and keep it always up-to-date.
 
 ## Start Reading:
 
